@@ -1,0 +1,67 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+}
+#btn1{
+    width: 116px;
+    height: 52px;
+    border-radius: 5px;
+    color: #006A50;
+    border: 1px solid #006A50;
+    background-color: white;
+
+}
+.expore{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-evenly;
+}
+
+#btn2{
+    background-color: #006A50;
+    color: white;
+    border-radius: 8px;
+    width: 270px;
+    height: 56px;
+}
+#image1{
+    width: 75%;
+}
+.innvation{
+    background-color: rgb(247, 248, 248);
+    width: 302px;
+    height: 244px;
+    border-radius: 16px;
+}
+
+.main-section{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.innvation-call1{
+    background-color: #dce3f0;
+    width: 302px;
+    height: 244px;
+    border-radius: 16px;
+}
+
+#btn3{
+    background-color: #006A50;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.innvation-call2{
+    background-color: #d2d8e4;
+    width: 302px;
+    height: 244px;
+    border-radius: 16px;
+}
